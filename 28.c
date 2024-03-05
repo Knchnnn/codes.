@@ -18,6 +18,7 @@ l2=strlen(b);
 for(i=0;l1-1;i!=(l1+l2);i++)
 {
 a[i]=b[t];
+  t++;
 }
 puts(a);
 }
