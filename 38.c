@@ -1,5 +1,5 @@
 #include<stdio.h>
-void desc(int *,int);
+void asce(int *,int);
 int main()
 {
     int a[10],n;
