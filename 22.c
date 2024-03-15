@@ -9,7 +9,7 @@ printf("enter a string:");
 fgets(s,100,stdin);
 printf("enter a value:");
 scanf("%c",&v);
-res=finf(a,v);
+res=find(a,v);
 if(res!=1)
 {
 printf("the value %c is presented index %d\n",v,res);
